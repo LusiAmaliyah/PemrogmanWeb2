@@ -14,7 +14,7 @@ Komponen atau Framework tambahan  untuk membangun mail app antara lain :
 
 Anda bisa mengakses aplikasi mail app dengan mengeklik tautan dibawah ini :
 
-[Mail App](https://is-mail-laravel.herokuapp.com/)
+[Mail App](https://app-laravel-mail.herokuapp.com/)
 
 
-> [Author by Faizalilham](https://www.instagram.com/faizalfalakh/) 
+> [Author by Lusi Amaliyah](https://www.instagram.com/lusiamaliyah03/) 
